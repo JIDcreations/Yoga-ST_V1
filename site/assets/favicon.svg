@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="#2B2621" stroke-linejoin="round" stroke-linecap="round">
+  <circle cx="100" cy="100" r="97" stroke-width="1" opacity=".45"/>
+  <path d="M77.04 44.57 Q93.90 30.27 100.00 8.00 Q106.10 30.27 122.96 44.57 M122.96 44.57 Q145.00 46.38 165.05 34.95 Q153.62 55.00 155.43 77.04 M155.43 77.04 Q169.73 93.90 192.00 100.00 Q169.73 106.10 155.43 122.96 M155.43 122.96 Q153.62 145.00 165.05 165.05 Q145.00 153.62 122.96 155.43 M122.96 155.43 Q106.10 169.73 100.00 192.00 Q93.90 169.73 77.04 155.43 M77.04 155.43 Q55.00 153.62 34.95 165.05 Q46.38 145.00 44.57 122.96 M44.57 122.96 Q30.27 106.10 8.00 100.00 Q30.27 93.90 44.57 77.04 M44.57 77.04 Q46.38 55.00 34.95 34.95 Q55.00 46.38 77.04 44.57" stroke-width="3.2"/>
+  <circle cx="100" cy="100" r="60" stroke-width="2"/>
+  <path d="M48.04 70.00 L151.96 70.00 L100.00 160.00 Z" stroke-width="2"/>
+  <rect x="72" y="74" width="56" height="52" fill="#F4EFE6" stroke-width="1.6"/>
+  <g fill="#2B2621" stroke="none" font-family="Figtree, system-ui, sans-serif" font-weight="700" font-size="15" text-anchor="middle">
+    <text x="100" y="95">YG</text><text x="83" y="118">P</text><text x="117" y="118">M</text>
+  </g>
+</svg>
